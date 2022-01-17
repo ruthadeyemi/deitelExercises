@@ -1,4 +1,4 @@
-package chapterFour;
+package chibuzoExamplesOfCodes;
 
 public class controlStructure {
 
