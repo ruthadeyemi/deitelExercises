@@ -1,6 +1,6 @@
 package chapterFour;
 //4.16
-public class ProgramPrint {
+public class ProgramPrintMysteryOne {
     public static void main(String[] args) {
         int x = -2;
         int total = 0;

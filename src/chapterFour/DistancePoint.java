@@ -1,2 +1,7 @@
-package chapterFour;public class DistancePoint {
+package chapterFour;
+//4.37
+public class DistancePoint {
+    public static void main(String[] args) {
+
+    }
 }

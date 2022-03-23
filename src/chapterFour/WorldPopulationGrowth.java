@@ -9,9 +9,7 @@ public class WorldPopulationGrowth {
         worldPopulation = people.nextLong();
         System.out.println("What's the current world population growth rate?");
         worldPopulationGrowthRate = people.nextDouble();
-
         worldPopulationGrowthRate/=100;
-
         for (int year = 1; year <=75; year++ ){
           long currentWorldPopulation = (long) (worldPopulation + (worldPopulation *  worldPopulationGrowthRate) * year);
             System.out.printf("%d\t%d\n", year, currentWorldPopulation);
