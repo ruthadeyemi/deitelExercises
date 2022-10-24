@@ -19,10 +19,10 @@ public class PopulationGrowth {
         System.out.print("next three year = " +yearThree+ "\n");
         currentPopulation = (long) yearThree;
         double yearFour = currentPopulation + ( currentPopulation * growthRate );
-        System.out.print("next four yea = " +yearFour+ "\n");
+        System.out.print("next four year = " +yearFour+ "\n");
         currentPopulation = (long) yearFour;
         double yearFive = currentPopulation + ( currentPopulation * growthRate );
-        System.out.print("next five yea = " +yearFive+ "\n");
+        System.out.print("next five year = " +yearFive+ "\n");
 
 
     }

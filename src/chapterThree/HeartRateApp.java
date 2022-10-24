@@ -18,6 +18,7 @@ public class HeartRateApp {
             System.out.print("========User Information========");
             System.out.println("\t\nFirstName: " +firstName+"\t\nlastName: " +lastName+ "\t\nAge: " + heart.calculateForAge());
             heart.targetHeartRate();
+            heart.calculateForMaximumHeartRate();
 
         }
 }
