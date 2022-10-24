@@ -1,2 +1,4 @@
-package interviewQuestions;public class FibonacciSeries {
+package interviewQuestions;
+
+public class FibonacciSeries {
 }

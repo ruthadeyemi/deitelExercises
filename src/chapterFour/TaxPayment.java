@@ -10,6 +10,7 @@ public class TaxPayment {
             counter++;
         System.out.print("Enter citizen earning:");
          citizensEarning = userInput.nextInt();
+        System.out.println("how much do you earn? ");
 
 
 

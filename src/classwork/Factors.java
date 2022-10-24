@@ -8,7 +8,7 @@ public class Factors {
         int f=1;
         int count = 0;
 
-         System.out.println("Enter integer:");
+         System.out.print("Enter integer:");
          number = input.nextInt();
 
         for(f = 1; f <= number; f++){

@@ -1,4 +1,4 @@
-package chapterFour;
+package selfPractice;
 public class GasMileageApplication {
     double totalMiles;
     double totalGallons;

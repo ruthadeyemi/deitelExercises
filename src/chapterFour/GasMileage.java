@@ -9,10 +9,10 @@ public class GasMileage {
         int totalGallonsUsed = 0;
         double milesPerGallons;
         double totalMilesPerGallons;
-        System.out.print("Enter miles driven {-1 to quit}: ");
+        System.out.print("Enter miles driven for this trip {-1 to quit}: ");
         milesDriven = input.nextInt();
         while (milesDriven != -1){
-            System.out.print("Enter gallons used:");
+            System.out.print("Enter gallons used for this trip: ");
             gallonsUsed = input.nextInt();
             totalMilesDriven += milesDriven;
             totalGallonsUsed += gallonsUsed;

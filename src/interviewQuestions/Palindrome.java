@@ -1,2 +1,4 @@
-package interviewQuestions;public class Palindrome {
+package interviewQuestions;
+
+public class Palindrome {
 }

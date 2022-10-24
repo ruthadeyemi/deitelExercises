@@ -1,2 +1,4 @@
-package interviewQuestions;public class ArrayAscendingOrder {
+package interviewQuestions;
+
+public class ArrayAscendingOrder {
 }

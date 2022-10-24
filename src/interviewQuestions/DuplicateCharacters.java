@@ -1,2 +1,4 @@
-package interviewQuestions;public class DuplicateCharacters {
+package interviewQuestions;
+
+public class DuplicateCharacters {
 }

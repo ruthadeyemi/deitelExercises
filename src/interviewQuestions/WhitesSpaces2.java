@@ -1,2 +1,4 @@
-package interviewQuestions;public class WhitesSpaces2 {
+package interviewQuestions;
+
+public class WhitesSpaces2 {
 }

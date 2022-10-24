@@ -1,2 +1,4 @@
-package interviewQuestions;public class SecondHighestNumber {
+package interviewQuestions;
+
+public class SecondHighestNumber {
 }

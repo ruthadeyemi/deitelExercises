@@ -1,2 +1,4 @@
-package interviewQuestions;public class MiddleLinkedList {
+package interviewQuestions;
+
+public class MiddleLinkedList {
 }

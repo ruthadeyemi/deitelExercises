@@ -1,2 +1,4 @@
-package interviewQuestions;public class ReverseReplaceCharacters {
+package interviewQuestions;
+
+public class ReverseReplaceCharacters {
 }

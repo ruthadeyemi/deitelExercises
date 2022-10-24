@@ -1,4 +1,4 @@
-package chapterThree;
+package revision.chapterThree;
 
 public class SelfReviewExercises {
     public static void main(String[] args) {

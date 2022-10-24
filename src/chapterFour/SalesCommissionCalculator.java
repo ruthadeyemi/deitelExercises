@@ -17,6 +17,7 @@ public class SalesCommissionCalculator {
                    else if (item == 4) grossSales += numberOfSoldItems * 350.89;
                }
                salesPersonEarnings = 0.09 * grossSales + 200;
-       System.out.printf("Salesperson's earnings for this last week:$%.2f\n", salesPersonEarnings);
+       System.out.println();
+       System.out.printf("Salesperson's earnings for last week: $%.2f\n", salesPersonEarnings);
    }
 }

@@ -1,4 +1,6 @@
-package chapterFour;
+package selfPractice;
+import selfPractice.GasMileageApplication;
+
 import java.util.Scanner;
 public class GasMileageApplicationTest {
     public static void main(String[] args) {
