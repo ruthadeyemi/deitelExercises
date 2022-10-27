@@ -1,0 +1,27 @@
+The healthcare industry historically has generated large amounts of data, driven by record keeping, compliance & regulatory requirements, and patient care.
+While most data is stored in hard copy form, the current trend is toward rapid digitization of these large amounts of data.
+
+Driven by mandatory requirements and the potential to improve the quality of healthcare delivery meanwhile reducing the costs, these massive quantities of data (known as ‘big data’) hold the promise of supporting a wide range of medical and healthcare functions, including among others clinical decision support, disease surveillance, and population health management
+
+Research & development:
+ 1) predictive modeling to lower attrition and produce a leaner, faster, more targeted R & D pipeline in drugs and devices;
+ 2) statistical tools and algorithms to improve clinical trial design and patient recruitment to better match treatments to individual patients, thus reducing trial failures and speeding new treatments to market; and
+ 3) analyzing clinical trials and patient records to identify follow-on indications and discover adverse effects before products reach the market.
+
+ Public health:
+ 1) analyzing disease patterns and tracking disease outbreaks and transmission to improve public health surveillance and speed response;
+ 2) faster development of more accurately targeted vaccines, e.g., choosing the annual influenza strains; and,
+ 3) turning large amounts of data into actionable information that can be used to identify needs, provide services, and predict and prevent crises, especially for the benefit of populations.
+
+ In addition, suggests big data analytics in healthcare can contribute to
+ Evidence-based medicine
+ Device/remote monitoring
+ Pre-adjudication fraud analysis
+ Genomic analytics
+
+ List of applications:
+ Patient profile analytics
+queries
+Reports
+OLAP
+Data mining

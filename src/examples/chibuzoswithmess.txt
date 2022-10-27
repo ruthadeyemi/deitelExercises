@@ -1,0 +1,85 @@
+// prompt user to create an account or exit
+//if create account
+// prompt user to deposit 
+public class Main{
+public static void main(String[] args){
+Scanner scanner = new Scanner();
+int response =0;
+Account userAccount;
+
+//displayinitialprompt();
+//collect responsefrominitialdisplay();
+
+
+//}
+//public static void 
+do{
+String prompt  = """
+	welcome to diamond (access) confused bank
+	wetin you wan do sef?
+press 1 to create account
+press 2 to exit
+press 3 to check balance
+press 4 to go back
+
+""";
+soutln(prompt)
+response = scanner.nextInt();
+swith(response){
+case 1:
+Scanner.nexLine();
+soutln(you wan create acct?);
+soutln(enter ur name);
+String name = Scanner.nextLine();
+soutln(enter ur pin);
+String pin = Scanner.nextLine();
+userAccount = new Account(name, pin);
+soutln("/n/n/nwe don create am);
+int newAccountresponse 
+string newAccountprompt="""
+press1 to deposite
+press 2 to withdraw
+press 3 to  check balance
+press 4 to go bank
+press 5 to if u don tire
+""";
+soutln(newaCCOUNTpROMPT);
+int newAccountPromptResponse = scanner.nextInt()
+swith(newAccountPromptResponse){
+case 1:
+soutln(how much u wan put for the account);
+int amount = scanner.nextInt()
+userAccount.deposit(amount);
+soutln(\n\n\n we don put ur moni);
+//}
+//soutln() 
+breakk;
+case 2
+soutln(hw much to comot?);
+int amountTocOMOT = SCANNER.nextInt();
+sacnner.nextLine();
+soutln(enter pin);
+String givepin = sacnner.nextLine();
+
+userAcont.withdraw(amounttocomot,givepin);
+soutln("\n\n\n withdraw sucessful);
+break;
+case3:
+//scanner.nextLine();
+soutln(give pin);
+String checkBalancePin = scanner.nextLine();
+int balance  = userAccount.getbalance(checkbalancepin)
+soutln(ur balance is" +balance)
+break;
+case4:
+break;
+system.exit (status:0)
+while(newAccountPromptResponse!=1 && newAccountPromptResponse!=2 && newAccountPromptResponse !=3)
+case5
+
+system.exit (status:0)
+default;
+while (response !=1 && response)
+
+}
+}

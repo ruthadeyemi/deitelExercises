@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d0ab9f3-a3fd-41fe-8b6d-f418c7d91541" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chapterFour/GasMileageApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapterFour/SalesCommissionCalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/CountNumberFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/CountNumberFcatorsTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/selfPractice/GasMileageApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFour/GasMileageApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selfPractice/GasMileageApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFour/SalesCommissionCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterFour/SalesCommissionCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterFour/WorldPopulationGrowth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterFour/WorldPopulationGrowth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterOne/PrintStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterOne/PrintStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterOne/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterOne/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterOne/Welcome4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterOne/Welcome4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterThree/HeartRateApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterThree/HeartRateApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterThree/SelfReviewExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/../revision/chapterThree/SelfReviewExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterTwo/NegativePositiveZeroValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterTwo/NegativePositiveZeroValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapterTwo/PopulationGrowth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterTwo/PopulationGrowth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classwork/ComparingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classwork/ComparingString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classwork/ExtractWordBalloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classwork/ExtractWordBalloon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classwork/Pap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classwork/Pap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classwork/ReverseCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classwork/ReverseCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classwork/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classwork/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classwork/SwapTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classwork/SwapTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classwork/TrimSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classwork/TrimSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyerBriggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyerBriggs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyerBriggsQuestionnaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyerBriggsQuestionnaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selfPractice/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapterFour/GasMileage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selfPractice/SwapTwoVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selfPractice/SwapTwoVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/chapterFour/CreditLimitCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/chapterFour/CreditLimitCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/chapterFour/GasMileageApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/chapterFour/GasMileageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/chapterFour/SalesCommissionCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/classwork/PapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/classwork/PapTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="28QJhdYRa0EbpWiLvkOMKJVfP18" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0ab9f3-a3fd-41fe-8b6d-f418c7d91541" name="Changes" comment="" />
+      <created>1651143000950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651143000950</updated>
+      <workItem from="1651143003859" duration="5000" />
+    </task>
+    <servers />
+  </component>
+</project>
